@@ -19,8 +19,8 @@
       <file leaf-file-name="web.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+            <state relative-caret-position="63">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -343,7 +343,7 @@
       <workItem from="1548433967173" duration="11535000" />
       <workItem from="1548509642529" duration="15230000" />
       <workItem from="1548556568254" duration="38150000" />
-      <workItem from="1548686145346" duration="141000" />
+      <workItem from="1548686145346" duration="349000" />
     </task>
     <task id="LOCAL-00001" summary="导航菜单、Rbac权限">
       <created>1548607538176</created>
@@ -356,7 +356,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="235228000" />
+    <option name="totallyTimeSpent" value="235436000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="127" y="109" width="1134" height="570" extended-state="0" />
@@ -676,8 +676,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        <state relative-caret-position="63">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
         </state>
       </provider>
     </entry>
