@@ -10,18 +10,16 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-Route::get('/','StudentController@add')->name('student.add');
-Route::post('/student/save','StudentController@save');
-//学生列表
-Route::get('/student/list','StudentController@index')->name('student.index');
-
-
-
-/*
 Route::get('/', function () {
     return view('welcome');
 });
 
+
+/*
+Route::get('/','StudentController@add')->name('student.add');
+Route::post('/student/save','StudentController@save');
+//学生列表
+Route::get('/student/list','StudentController@index')->name('student.index');
 
 //定义三个路由  首页 关于 帮助
 
